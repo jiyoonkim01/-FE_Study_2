@@ -1,1 +1,1 @@
-# FE_Study_2
+# JS_Study_2
